@@ -1,4 +1,4 @@
 # test-jenkins-jira
 
-testing sev 0
+testing sev 1
 site unsuspended Jenkins test
